@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Copyright 2018-2021 the Deno authors. All rights reserved. MIT license.
 
 export const ENABLEMENT_FLAG = "deno:lspReady";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Copyright 2018-2021 the Deno authors. All rights reserved. MIT license.
 
 import type { PluginSettings, Settings } from "../../client/src/shared_types";
